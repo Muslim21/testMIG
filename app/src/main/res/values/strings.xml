@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MIG Test</string>
+
+    <string name="content_text">Google officially announced its much-anticipated Pixel phones; the
+        Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main
+        one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat
+        devices which will apparently usurp Google’s long-standing Nexus series.</string>
+    <string name="text_735">Hi,</string>
+    <string name="text_stock_hanya_5_buah">Akbar</string>
+
+</resources>
